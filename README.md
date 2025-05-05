@@ -1,6 +1,6 @@
 # EZ Flyer
 
-![封面圖片](https://logo.png)
+![封面圖片]([https://logo.png](https://github.com/zackc0302/java_game/blob/main/logo.png))
 
 version：1.0.0  
 ## 下載
