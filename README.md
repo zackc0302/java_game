@@ -3,8 +3,7 @@
 ![封面圖片](logo.png)
 
 version：1.0.0  
-## 下載
-可直接於手機安裝apk檔案
+[下載 EZ Flyer](./EZ_Flyer.apk)
 
 ---
 
