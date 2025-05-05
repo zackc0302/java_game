@@ -1,6 +1,6 @@
 # EZ Flyer
 
-![封面圖片](logo.png)
+
 
 version：1.0.0  
 ## 下載
